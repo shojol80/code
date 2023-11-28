@@ -17,7 +17,7 @@ module LagoUtils
     end
 
     def premium?
-      premium
+      premiu
     end
 
     private
